@@ -1,4 +1,14 @@
+
 Fourth Stage: PS4
+
+<<<<<<< HEAD
+Third Stage: PS3
+=======
+The third stage of PSLV is a solid rocket motor that provides the upper stages
+high thrust after the atmospheric phase of the launch.
+Fuel : HTPB
+Max. Thrust : 240 kN
+>>>>>>> PS3
 
 The PS4 is the uppermost stage of PSLV, comprising of two Earth storable
 liquid engines.
